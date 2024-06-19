@@ -10,4 +10,4 @@ Wing Rush challenges players to take flight as a bird, skillfully dodging incomi
 - **Stunning Graphics**: Enjoy beautifully designed visuals that enhance the arcade experience.
 - **High Scores**: Compete with friends and other players to achieve the highest score.
 
-![wing-rush](https://github.com/Chathumina12/Wing-Rush/assets/142786337/c56bf1fb-46a7-4339-a74c-dcda81fb1d56)
+![wing-rush](images/wing-rush.png)
